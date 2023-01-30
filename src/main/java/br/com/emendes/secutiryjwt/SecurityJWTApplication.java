@@ -1,13 +1,13 @@
-package br.com.emendes.springboot3;
+package br.com.emendes.secutiryjwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Springboot3Application {
+public class SecurityJWTApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Springboot3Application.class, args);
+		SpringApplication.run(SecurityJWTApplication.class, args);
 	}
 
 }
